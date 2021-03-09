@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Installation Projet Docker pour Linux MacOSX et Windows
 
 ## lien vers la documentation de Docker: https://docs.docker.com/
@@ -180,11 +179,4 @@ python3 run.py
 
 ### Url du projet dans votre navigateur votre machine locale
 http://localhost:5000
-
-
-
-
-
-=======
->>>>>>> 61f588ecd5ebc1b37937509650bcdfe692183ea3
 
